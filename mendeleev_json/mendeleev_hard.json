@@ -1,0 +1,62 @@
+{
+  "H": {
+    "number": 1,
+    "name": "Водород",
+    "discoverer": "Кавендиш",
+    "density": 0.0000899
+  },
+  "He": {
+    "number": 2,
+    "name": "Гелий",
+    "discoverer": "Локьер, Жансен, Рамзай",
+    "density": 0.00017
+  },
+  "Li": {
+    "number": 3,
+    "name": "Литий",
+    "discoverer": "Арфведсон",
+    "density": 0.53
+  },
+  "Be": {
+    "number": 4,
+    "name": "Берилий",
+    "discoverer": "Воклен",
+    "density": 1.58
+  },
+  "B": {
+    "number": 5,
+    "name": "Бор",
+    "discoverer": "Дэви и Гей-Люссак",
+    "density": 2.46
+  },
+  "C": {
+    "number": 6,
+    "name": "Углерод",
+    "discoverer": "неизвестен",
+    "density": 3.58
+  },
+  "N": {
+    "number": 7,
+    "name": "Азот",
+    "discoverer": "Розенфорд",
+    "density": 0.00117
+  },
+  "O": {
+    "number": 8,
+    "name": "Кислород",
+    "discoverer": "Пристли и Шееле",
+    "density": 0.00133
+  },
+  "F": {
+    "number": 9,
+    "name": "Фтор",
+    "discoverer": "Муассан",
+    "density": 0.00158
+  },
+  "Ne": {
+    "number": 9,
+    "name": "Неон",
+    "discoverer": "Размзай и Траверс",
+    "density": 0.00084
+  }
+}
